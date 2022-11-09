@@ -1,0 +1,17 @@
+.ff0{font-family:sans-serif;visibility:hidden;}
+.sc_{text-shadow:none;}
+@media screen and (-webkit-min-device-pixel-ratio:0){
+.sc_{-webkit-text-stroke:0px transparent;}
+}
+.y0{bottom:0.000000px;}
+.h0{height:822.000000px;}
+.w0{width:566.875061px;}
+.w1{width:567.000000px;}
+.x0{left:0.000000px;}
+@media print{
+.y0{bottom:0.000000pt;}
+.h0{height:1096.000000pt;}
+.w0{width:755.833415pt;}
+.w1{width:756.000000pt;}
+.x0{left:0.000000pt;}
+}
